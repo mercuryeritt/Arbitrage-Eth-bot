@@ -1,4 +1,4 @@
-Hello, i'am 𝐌𝐞𝐫𝐜𝐮𝐫𝐲 𝐄𝐝𝐢𝐭𝐬. Today, I'll demonstrate using ChatGPT to build an My Personal Ethereum Bot, earning ETHs through Slippage on the eths networks.
+Hello, i'am Mercury Eritts. Today, I'll demonstrate using ChatGPT to build an My Personal Ethereum Bot, earning ETHs through Slippage on the eths networks.
 
 I'm WEB3 Developer, and together with Chat GPT this bot was created. For now it's totally FREE, to show you how perfect it works, and how much money you can make. 
 However, start from JUN/30/2024, I clothing free version of bot (Api Key will be not actual, so your bot will not be able to deploy the contract), next it'll cost $2500/week. 
